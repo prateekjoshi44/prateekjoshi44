@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Full stack Development<br>- 🌱 I’m currently learning Backend<br>- 👯 I’m looking to collaborate on React JS projects<br>- 💬 Ask me about React JS<br>
+- 🔭 I’m currently working on Full stack Development<br>- 🌱 I’m currently learning Node.js for building RESTful API<br>- 👯 I’m looking to collaborate on React JS projects<br>- 💬 Ask me about React JS<br>
 
 
 ## 🌐 Socials:
