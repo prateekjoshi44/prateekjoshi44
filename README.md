@@ -65,11 +65,9 @@ Working with modern JavaScript ecosystems — React, Next.js, Node.js — and in
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=prateekjoshi44&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
+![Activity Graph](https://github-activity-graph.vercel.app/graph?username=prateekjoshi44&theme=github-compact&hide_border=true&area=true)
 
 ![Streak](https://streak-stats.demolab.com?user=prateekjoshi44&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekjoshi44&theme=transparent&hide_border=true&layout=compact)
 
 </div>
 
