@@ -65,11 +65,11 @@ Working with modern JavaScript ecosystems — React, Next.js, Node.js — and in
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=prateekjoshi44&show_icons=true&theme=default&hide_border=true&include_all_commits=false&count_private=false&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=prateekjoshi44&show_icons=true&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=prateekjoshi44&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000)
+![Streak](https://streak-stats.demolab.com?user=prateekjoshi44&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekjoshi44&theme=default&hide_border=true&layout=compact&title_color=000000&text_color=333333&bg_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekjoshi44&theme=transparent&hide_border=true&layout=compact)
 
 </div>
 
@@ -79,7 +79,7 @@ Working with modern JavaScript ecosystems — React, Next.js, Node.js — and in
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -87,6 +87,6 @@ Working with modern JavaScript ecosystems — React, Next.js, Node.js — and in
 
 <div align="center">
 
-[![Visits](https://visitcount.itsvg.in/api?id=prateekjoshi44&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://komarev.com/ghpvc/?username=prateekjoshi44&style=flat-square&color=grey)
 
 </div>
