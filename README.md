@@ -19,9 +19,9 @@
 Full stack developer focused on building AI-powered web applications.
 Working with modern JavaScript ecosystems — React, Next.js, Node.js — and integrating intelligent features into production-ready products.
 
-- 🔭 Currently working on **AI + Full Stack projects**
-- 🛠 Stack: React · Next.js · Node · MongoDB · Python
-- 🤖 Exploring: LLMs, AI APIs, agentic workflows
+-  Currently working on **AI + Full Stack projects**
+-  Stack: React · Next.js · Node · MongoDB · Python
+-  Exploring: LLMs, AI APIs, agentic workflows
 
 ---
 
@@ -31,7 +31,7 @@ Working with modern JavaScript ecosystems — React, Next.js, Node.js — and in
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=6DA55F)
