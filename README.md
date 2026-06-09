@@ -20,7 +20,6 @@ Full stack developer focused on building AI-powered web applications.
 Working with modern JavaScript ecosystems — React, Next.js, Node.js — and integrating intelligent features into production-ready products.
 
 -  Currently working on **AI + Full Stack projects**
--  Stack: React · Next.js · Node · MongoDB · Python
 -  Exploring: LLMs, AI APIs, agentic workflows
 
 ---
